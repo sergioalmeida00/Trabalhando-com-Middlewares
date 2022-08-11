@@ -17,9 +17,6 @@ Tudo isso para cada usuário em específico. Além disso, dessa vez teremos um p
 
 A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
-## Template da aplicação
-
-![%F0%9F%92%BB%20Sobre%20o%20desafio%206202e44e30db4b2b8a075dedd3758e1b/Untitled.png](%F0%9F%92%BB%20Sobre%20o%20desafio%206202e44e30db4b2b8a075dedd3758e1b/Untitled.png)
 
 ## Middlewares da aplicação
 
